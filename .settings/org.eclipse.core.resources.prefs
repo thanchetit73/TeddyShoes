@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/controller/CustomerRegServlet.java=UTF-8
+encoding//src/controller/ProductSearchServlet.java=UTF-8
+encoding//src/model/bo/CategoryBO.java=UTF-8
+encoding//src/model/bo/CustomerBO.java=UTF-8
+encoding//src/model/bo/ProductsBO.java=UTF-8
+encoding//src/model/dao/CategoryDAO.java=UTF-8
+encoding//src/model/dao/CoSo.java=UTF-8
+encoding//src/model/dao/CustomerDAO.java=UTF-8
+encoding//src/model/dao/ProductsDAO.java=UTF-8
